@@ -1,0 +1,13 @@
+C:\Users\Brandon\Documents\Visual Studio 2015\Projects\RocketHopper\RocketHopper\bin\Debug\RocketHopper.exe.config
+C:\Users\Brandon\Documents\Visual Studio 2015\Projects\RocketHopper\RocketHopper\bin\Debug\RocketHopper.exe
+C:\Users\Brandon\Documents\Visual Studio 2015\Projects\RocketHopper\RocketHopper\bin\Debug\RocketHopper.pdb
+C:\Users\Brandon\Documents\Visual Studio 2015\Projects\RocketHopper\RocketHopper\bin\Debug\Interop.WMPLib.dll
+C:\Users\Brandon\Documents\Visual Studio 2015\Projects\RocketHopper\RocketHopper\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Brandon\Documents\Visual Studio 2015\Projects\RocketHopper\RocketHopper\obj\Debug\Interop.WMPLib.dll
+C:\Users\Brandon\Documents\Visual Studio 2015\Projects\RocketHopper\RocketHopper\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Brandon\Documents\Visual Studio 2015\Projects\RocketHopper\RocketHopper\obj\Debug\RocketHopper.csproj.ResolveComReference.cache
+C:\Users\Brandon\Documents\Visual Studio 2015\Projects\RocketHopper\RocketHopper\obj\Debug\RocketHopper.Display.resources
+C:\Users\Brandon\Documents\Visual Studio 2015\Projects\RocketHopper\RocketHopper\obj\Debug\RocketHopper.Properties.Resources.resources
+C:\Users\Brandon\Documents\Visual Studio 2015\Projects\RocketHopper\RocketHopper\obj\Debug\RocketHopper.csproj.GenerateResource.Cache
+C:\Users\Brandon\Documents\Visual Studio 2015\Projects\RocketHopper\RocketHopper\obj\Debug\RocketHopper.exe
+C:\Users\Brandon\Documents\Visual Studio 2015\Projects\RocketHopper\RocketHopper\obj\Debug\RocketHopper.pdb
